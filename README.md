@@ -4,6 +4,6 @@ Main coder - Bharat,
 Asst. Coder - Birinder,
 Asst. Coder - Bharat Jakhar,
 Presentor -  Chahatbir Singh,
-Click on the this link to access presentation pptx file.
+Click on this link to access presentation pptx file.
 
 Thank You!
